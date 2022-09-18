@@ -1,0 +1,34 @@
+/html/body/div[4]/div[2]/div/div[2]/div[1]/div/h3/a xpath secteur 1
+/html/body/div[4]/div[2]/div/div[2]/div[2]/div/h3/a
+/html/body/footer[2]/div/div/div[1]/div[1]/div[1]/picture/img xpath afrique du sud
+/html/body/footer[2]/div/div/div[1]/div[1]/div[2]/picture/img xpath algérie 
+/html/body/div[4]/div[2]/div/div[2]/div[2]/div/h3/a
+
+
+
+
+
+/html/head/link[1]
+/ht/html/head/link[1]
+
+
+#footer > div > div > div.ls
+
+<div class="flex items-center px-2 py-4 cursor-pointer" data-cypher-link="lJXah_goafrica_VnbuF2LqJ2L">
+                                <picture><source type="image/webp" srcset="https://www.goafricaonline.com/build-manifest/images/flags/shiny/48/bj.webp?mtime=1655981791"><source type="image/png" srcset="https://www.goafricaonline.com/build-manifest/images/flags/shiny/48/bj.png?mtime=1519829645"><img src="https://www.goafricaonline.com/build-manifest/images/flags/shiny/48/bj.png?mtime=1519829645" loading="lazy" alt="Drapeau du Bénin" class="w-30px ls:w-40px h-auto hover:filter-saturate-2" title="Bénin"></picture>
+                            </div>
+
+
+
+
+
+
+ull.ls\:w-auto.ls\:flex-1.mb-16.ls\:mb-0.order-1.ls\:order-2 > div.flex.flex-wrap.-mx-2.-my-4 > div:nth-child(1)
+/html/body/div[5]/div[2]/div[1]/div[3]/div[1]/div/div[2]/div[1]/div/a
+/html/body/div[5]/div[2]/div[1]/div[3]/div[1]/div/div[2]/div[2]/div/a
+
+/html/body/div[5]/div[2]/div[1]/div[3]/div[1]/div/div[2]/div[1]/div/a
+
+/html/body/div[6]/div[2]/div/div[5]/div/div[1]/a
+/html/body/div[6]/div[2]/div/div[5]/div/div[5]/a
+https://www.goafricaonline.com/annuaire/secteur-energie
